@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mnemosyne07servgoog_0004.png"; bbox 0 0 3192 5009; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 608 360 1133 685">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 608 360 1133 685">
+     <span class='ocr_line' id='line_1_1' title="bbox 1051 524 1133 673"><span class='ocrx_word' id='word_1_1' title='bbox 1051 524 1133 673; x_wconf 51' lang='grc' dir='ltr'><strong>ἴε</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 608 360 1004 685"><span class='ocrx_word' id='word_1_2' title='bbox 608 360 1004 685; x_wconf 53' lang='lat' dir='ltr'><strong>§M</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 559 273 773 489">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 559 273 773 489">
+     <span class='ocr_line' id='line_1_3' title="bbox 687 392 773 483"><span class='ocrx_word' id='word_1_3' title='bbox 687 392 773 483; x_wconf 76' lang='lat' dir='ltr'>C</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 559 273 646 489"><span class='ocrx_word' id='word_1_4' title='bbox 609 273 614 279; x_wconf 86' lang='lat'>.</span> <span class='ocrx_word' id='word_1_5' title='bbox 559 351 646 489; x_wconf 63' lang='grc' dir='ltr'><strong>Φὸ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 78 4622">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 78 4622">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 78 4622"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 58 570; x_wconf 45' lang='lat' dir='ltr'><strong>&amp;riqmffiffl--QM,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 0 588 54 932; x_wconf 53' lang='grc' dir='ltr'><strong>Ἲωῇΰ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 0 961 50 1262; x_wconf 52' lang='grc' dir='ltr'><strong>Φηωξμωΰ</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 0 1289 46 2030; x_wconf 51' lang='lat' dir='ltr'><strong>Ml&amp;</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 0 2068 40 2421; x_wconf 48' lang='lat' dir='ltr'><strong>-.-anun-b.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 27 2442 38 2463; x_wconf 67' lang='lat'><em>0</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 0 2489 38 3181; x_wconf 53' lang='lat' dir='ltr'><strong>Wnaffffifoamwadzcb</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 19 3206 36 3243; x_wconf 70' lang='grc'><strong>4</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 0 3264 34 3560; x_wconf 53' lang='lat' dir='ltr'><strong>mvn-9355</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 21 3588 32 3615; x_wconf 68' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_16' title='bbox 0 3642 32 3693; x_wconf 63' lang='lat' dir='ltr'><strong>mr</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 0 3715 34 3936; x_wconf 47' lang='lat' dir='ltr'><strong>..bx-&amp;b</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 21 3970 36 4001; x_wconf 74' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_19' title='bbox 0 4032 42 4247; x_wconf 50' lang='grc' dir='ltr'><strong>»ἓ</strong></span> <span class='ocrx_word' id='word_1_20' title='bbox 0 4283 52 4446; x_wconf 47' lang='lat' dir='ltr'><strong>vaux-2</strong></span> <span class='ocrx_word' id='word_1_21' title='bbox 0 4481 78 4622; x_wconf 56' lang='grc' dir='ltr'><strong>ἒ</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
